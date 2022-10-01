@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anautzig
-- 👀 I’m interested in  aprender coisas novas
-- 🌱 I’m currently learning a como criar um site
-- 💞️ I’m looking to collaborate  com o que for necess
+- 👀 I’m interested in learn new things
+- 🌱 I’m currently learning how to criate a site
+- 💞️ I’m looking to collaborate with what you need 
 - 📫 How to reach me  ana.utzig@gmail.pr.gov.br 
 
 <!---
