@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn new things
 - 🌱 I’m currently learning how to criate a site
 - 💞️ I’m looking to collaborate with what you need 
-- 📫 How to reach me  ana.utzig@gmail.pr.gov.br 
+- 📫 How to reach me  ana.utzig@escola.pr.gov.br 
 
 <!---
 anautzig/anautzig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
